@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodingNathalie
+- 👋 Hi, I’m @NataliiaRemezova
 - 👀 I’m interested in AI, coffee and plants.
 - 🌱 I’m currently learning Python and Data Science basics (also Java for the university).
 - 💞️ I’m looking to collaborate on Python/ML projects.
