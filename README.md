@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NataliiaRemezova
-- 👀 I’m interested in AI, coffee and plants.
+- 👀 I’m interested in Machine Learning and Python development.
 - 🌱 I’m currently learning Python and Data Science basics (also Java for the university).
 - 💞️ I’m looking to collaborate on Python/ML projects.
 - 📫 How to reach me: coming soon
